@@ -1,0 +1,28 @@
+{
+  "name": "cordova-plugin-sms-sender",
+  "version": "1.0.5",
+  "description": "Cordova plugin to operate SMS for ionic send , receive and more",
+  "cordova": {
+    "id": "cordova-plugin-sms-sender",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/floatinghotpot/cordova-plugin-sms.git"
+  },
+  "bugs": {
+    "url": "https://github.com/floatinghotpot/cordova-plugin-sms/issues"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "sms"
+  ],
+  "author": {
+    "name": "OLivier ADOU",
+    "email": "adouolivier@outlook.com"
+  },
+  "license": "MIT"
+}
