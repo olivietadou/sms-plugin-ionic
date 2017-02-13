@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/floatinghotpot/cordova-plugin-sms.git"
+    "url": "https://github.com/olivietadou/sms-plugin-ionic.git"
   },
   "bugs": {
-    "url": "https://github.com/floatinghotpot/cordova-plugin-sms/issues"
+    "url": "https://github.com/olivietadou/sms-plugin-ionic/issues"
   },
   "keywords": [
     "cordova",
